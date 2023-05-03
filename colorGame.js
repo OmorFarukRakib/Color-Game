@@ -19,9 +19,12 @@ let header = document.querySelector("#header");
 init();
 
 function init() {
-  setupModeButtons();
+  setupModeButtons(;
   setupSquares();
+  arguments
   reset();
+  ad 
+
 }
 
 function setupModeButtons() {
