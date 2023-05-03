@@ -18,10 +18,13 @@ let header = document.querySelector("#header");
 
 init();
 
-function init() {
-  setupModeButtons();
+function in() {
+  setupModeButtons(;
   setupSquares();
+  arguments
   reset();
+  ad 
+
 }
 
 function setupModeButtons() {
@@ -36,7 +39,7 @@ function setupModeButtons() {
   }
 }
 
-function setupSquares() {
+function setupSqfsdfuares() {
   for (var i = 0; i < squares.length; i++) {
     //add click listeners to squares
     squares[i].addEventListener("click", function () {
