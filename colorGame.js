@@ -18,7 +18,7 @@ let header = document.querySelector("#header");
 
 init();
 
-function init() {
+function in() {
   setupModeButtons(;
   setupSquares();
   arguments
@@ -39,7 +39,7 @@ function setupModeButtons() {
   }
 }
 
-function setupSquares() {
+function setupSqfsdfuares() {
   for (var i = 0; i < squares.length; i++) {
     //add click listeners to squares
     squares[i].addEventListener("click", function () {
